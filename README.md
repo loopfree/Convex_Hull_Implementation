@@ -72,9 +72,17 @@
 
 <br/>
 
-## Tampilan Hasil Convex Hull untuk Dataset Iris
+## Tampilan Hasil Convex Hull untuk Dataset Iris pada Jupyter
 
-![Tampilan pada browser](./a-readme-related/iris.jpg)
+![Tampilan pada jupyter](./a-readme-related/iris1.jpg)
+
+<br/>
+
+## Tampilan Hasil Convex Hull untuk Dataset Iris pada Terminal
+
+![Tampilan pada terminal](./a-readme-related/iris2.jpg)
+
+<br/>
 
 ## Identitas Pembuat
 

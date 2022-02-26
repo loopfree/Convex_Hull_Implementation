@@ -1,6 +1,7 @@
-#ignore venv folder
+# ignore venv folder
 venv/
 
+# ignore pycache
 __pycache__/
 
 # ignore ipynb checkpoints
