@@ -74,7 +74,7 @@
 
 ## Ucapan Terima Kasih
 
-Kami mengucapkan terima kasih kepada
+Atas kesempatan dan bimbingannya, saya mengucapkan terima kasih kepada
 
 * Dr. Masayu Leylia Khodra
 * Dr. Nur Ulfa Maulidevi
