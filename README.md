@@ -2,7 +2,7 @@
 
 > Membuat implementasi convex hull untuk visualisasi tes linear separability dataset dengan algoritma divide and conquer
 
-## Requirement yang Diperlukan
+## Requirement Program
 * Python 3.9.7
     * certifi 2021.10.8
     * charset-normalizer 2.0.12
@@ -28,6 +28,14 @@
     * urllib3 1.26.8
 
 ## Cara Memakai
+
+### Jupyter
+1. Download atau clone repo ini
+2. Buka folder src repo ini
+3. Buka file main.ipynb
+
+
+### Terminal
 
 1. Download atau clone repo ini
 2. Jalankan Windows PowerShell
@@ -57,29 +65,16 @@
     py main.py
     ```
 
-<br/>
-<br/>
-
 ## Tampilan Cara Set-Up Virtual Environtment dan Download Library pada Windows PowerShell
 
 ![Tampilan pada windows powershell](./a-readme-related/wps1.jpg)
 ![Tampilan pada windows powershell](./a-readme-related/wps2.jpg)
 
 <br/>
-<br/>
 
 ## Tampilan Hasil Convex Hull untuk Dataset Iris
 
 ![Tampilan pada browser](./a-readme-related/iris.jpg)
-
-## Ucapan Terima Kasih
-
-Atas kesempatan dan bimbingannya, saya mengucapkan terima kasih kepada
-
-* Dr. Masayu Leylia Khodra
-* Dr. Nur Ulfa Maulidevi
-* Dr. Rinaldi Munir
-* Semua Asisten IF2211
 
 ## Identitas Pembuat
 
