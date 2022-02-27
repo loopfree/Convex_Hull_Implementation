@@ -32,10 +32,8 @@ class MyConvexHull:
 
 			for p in points:
 				while len(area) >= 2:
-					x_one, y_one = area[-1]
-					x_two, y_two = area[-2]
-					check1 = (x_one - x_two) * (p[1] - y_two)
-					check2 = (y_one - y_two) * (p[0] - x_two)
+					check1 = (area[-1][0] - area[-2][0]) * (p[1] - area[-2][1])
+					check2 = (area[-1][1] - area[-2][1]) * (p[0] - area[-2][0])
 					if (check1 >= check2):
 						area.pop()
 					else:
