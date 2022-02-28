@@ -87,3 +87,11 @@
 ## Identitas Pembuat
 
 Steven - 13520131
+
+<br/>
+
+## Referensi
+1. https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Divide-and-Conquer-(2022)-Bagian4.pdf
+2. https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
+3. https://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/
+4. https://www.geeksforgeeks.org/convex-hull-monotone-chain-algorithm/
